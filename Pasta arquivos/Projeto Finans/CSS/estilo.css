@@ -1,0 +1,23 @@
+#home{
+	background: #ffc107;
+	color: white;
+}
+.caixa{
+	padding: 60px 0;
+	border: solid 1px #e5e5e5; 
+}
+footer p a{
+	margin: 5px 15px;
+}
+@media (max-width: 400px) {
+ 	.input-group { width: 260px; 
+	}
+	.display-4 { font-size: 2.0rem; 
+	} 
+}
+ 
+@media (max-width: 290px) {
+ .input-group {
+  width: 190px; 
+  } 
+}
